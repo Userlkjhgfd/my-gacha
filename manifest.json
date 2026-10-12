@@ -1,0 +1,11 @@
+{
+  "name": "MY GACHA - Private Image Collection",
+  "short_name": "MY GACHA",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0812",
+  "theme_color": "#100b1c",
+  "description": "自分の画像で楽しむプライベート画像ガチャ"
+}
